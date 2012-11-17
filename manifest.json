@@ -1,0 +1,12 @@
+{
+  "name": "誰どこ for Google Chrome",
+  "version": "1.0",
+  "description": "zakilabの誰がどこにいるか",
+  "browser_action": {
+    "default_icon": "icon.png", // アイコンの画像ファイル
+    "default_title":"誰どこ for Google Chrome",// ツールチップ
+    "popup": "popup.html" // ポップアップ表示されるHTMLファイル
+  },
+  "permissions": [
+  ]
+}
